@@ -1,0 +1,57 @@
+
+[
+    {
+      "recipe_image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2021/05/Chicken-Stir-Fry-main-1.jpg",
+      "recipe_id": 1,
+      "recipe_name": "Chicken Stir-Fry",
+      "short_description": "A delicious and easy chicken stir-fry with vegetables.",
+      "ingredients": ["550g chicken", "120ml soy sauce", "200g basil leaves", "400g mushroom"],
+      "preparing_time":30 ,
+      "calories": 320
+    },
+    {
+      "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nqKp1DyvFRtO8arGQwMO3sWzYuyfVjBciQ&s",
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Pasta",
+      "short_description": "A hearty pasta dish filled with fresh vegetables.",
+      "ingredients": ["300g pasta", "2 tomatoes", "1 onion", "3 cloves garlic", "100g spinach"],
+      "preparing_time": 25,
+      "calories": 250
+    },
+    {
+      "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3P1V3vV5uxijJZMlCCznX1Lm35SFihm3ZLg&s",
+      "recipe_id": 3,
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Juicy grilled salmon with a lemon herb marinade.",
+      "ingredients": ["4 salmon fillets", "2 lemons", "2 tbsp olive oil", "Salt and pepper"],
+      "preparing_time": 20,
+      "calories": 300
+    },
+    {
+      "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7LhSu2lixParv_wGjz-yjrgi50nSTFnJDQA&s",
+      "recipe_id": 4,
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy risotto made with fresh mushrooms and parmesan cheese.",
+      "ingredients": ["300g Arborio rice", "200g mushrooms", "1 onion", "1L vegetable broth", "50g parmesan"],
+      "preparing_time": 40,
+      "calories": 350 
+    },
+    {
+      "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSGhc_rsY8ejzEti6UP-rZXZFDlWoNVCzTlg&s",
+      "recipe_id": 5,
+      "recipe_name": "Spinach Salad",
+      "short_description": "A light and refreshing salad with spinach, strawberries, and almonds.",
+      "ingredients": ["200g spinach", "1 cup strawberries", "50g almonds", "Balsamic vinaigrette"],
+      "preparing_time": 15,
+      "calories": 150
+    },
+    {
+      "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzEgyyOt-jomwgL5sTTwlfkgXzWdZGNmoZg&s",
+      "recipe_id": 6,
+      "recipe_name": "Beef Tacos",
+      "short_description": "Tasty tacos filled with seasoned ground beef and your favorite toppings.",
+      "ingredients": ["500g ground beef", "1 packet taco seasoning", "8 taco shells", "Lettuce, tomato, cheese for topping"],
+      "preparing_time": 35,
+      "calories": 400
+    }
+  ]
